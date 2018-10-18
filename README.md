@@ -6,6 +6,10 @@ View the URL Shortener in action:
 
 * https://hlaueriksson.me
 
+## Upstream
+
+This repo was cloned from the template repository https://github.com/hlaueriksson/jekyll-url-shortener
+
 ## Emoji
 
 * http://unicode.org/emoji/charts/full-emoji-list.html
