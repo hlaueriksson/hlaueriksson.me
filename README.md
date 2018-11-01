@@ -13,7 +13,7 @@ This repo was cloned from the template repository https://github.com/hlaueriksso
 ## Emoji
 
 * http://unicode.org/emoji/charts/full-emoji-list.html
-* https://www.emojicopy.com
+* https://emojipedia.org
 * http://caniemoji.com
 
 :ok_man: Platforms with URL emoji support:
