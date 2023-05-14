@@ -10,4 +10,4 @@ permalink: /:slug/
 plugins:
   - jekyll-redirect-from
 
-#repository: hlaueriksson/hlaueriksson.me
+github: [metadata]
