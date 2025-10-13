@@ -1,5 +1,5 @@
 ---
-title: Resor med Ving - Fyll livet med härliga semesterminnen!
+title: För en tryggare vardag | Afa Försäkring
 permalink: /👨‍💼/
-redirect_to: https://www.ving.se/
+redirect_to: https://www.afaforsakring.se/
 ---
